@@ -1,7 +1,6 @@
 # 💼 Salary Prediction Web App (ML + Streamlit)
 
 This is a **Machine Learning-based Salary Prediction Web App** built using:
-
 - 🧠 **Keras** (for model training)
 - 🧪 **Scikit-learn** (for preprocessing)
 - 📊 **Pandas** and **NumPy** (for data handling)
