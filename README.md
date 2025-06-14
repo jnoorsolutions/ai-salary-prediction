@@ -1,6 +1,7 @@
 # 💼 Salary Prediction Web App (ML + Streamlit)
 
-This is a **Machine Learning-based Salary Prediction Web App** built using:
+This project focuses on building a Salary Prediction model using a custom salary_prediction.csv dataset. The primary goal is to estimate an individual's salary based on key input features such as education level, years of professional experience, job role, industry sector, and location. Leveraging supervised machine learning techniques—particularly regression algorithms—the model aims to provide accurate salary estimations that can support data-driven decisions in HR analytics, talent acquisition, and career planning. The project includes data cleaning, feature engineering, model training, evaluation, and performance optimization, offering a complete end-to-end machine learning pipeline using:
+
 - 🧠 **Keras** (for model training)
 - 🧪 **Scikit-learn** (for preprocessing)
 - 📊 **Pandas** and **NumPy** (for data handling)
